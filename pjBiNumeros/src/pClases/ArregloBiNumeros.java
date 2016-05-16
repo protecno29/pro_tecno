@@ -45,6 +45,6 @@ public class ArregloBiNumeros {
             s+=m[i][j];
     return s;    
     }
-
+//editado desde github
 }
 
